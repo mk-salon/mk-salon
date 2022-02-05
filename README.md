@@ -2,7 +2,7 @@
 - 💻 I’m interested in iOS App Development
 - 📚 I’m currently learning Swift (UIkit/SwiftUI)
 ---
-![iOS_3](https://user-images.githubusercontent.com/29888750/152650051-19883f42-5281-412c-8fdf-321294f58ce2.gif)
+![diwali](https://user-images.githubusercontent.com/29888750/152650538-fea20ce0-0c1e-40a3-9660-0c4411390a98.gif)
 
 ---
 <!---
