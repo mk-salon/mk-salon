@@ -3,6 +3,7 @@
 - 📚 I’m currently learning Swift (UIkit/SwiftUI)
 ---
 ![diwali](https://user-images.githubusercontent.com/29888750/152650538-fea20ce0-0c1e-40a3-9660-0c4411390a98.gif)
+
 ---
 <!---
 mk-salon/mk-salon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
