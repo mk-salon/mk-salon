@@ -4,8 +4,8 @@
 
 ### You can cach me there -> https://malnov.bio.link
 
-----
-_________________________![diwali](https://user-images.githubusercontent.com/29888750/152650538-fea20ce0-0c1e-40a3-9660-0c4411390a98.gif)
+---
+![swiftBanner](https://user-images.githubusercontent.com/29888750/154796393-d3876d4c-3890-44fc-8df1-55d0ac10e041.jpg)
 
 ---
 <!---
