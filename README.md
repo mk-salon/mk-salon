@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Malnov from IT Universe
+- 👋 Hi, I’m Andrew from IT Universe
 - 💻 I’m interested in iOS App Development
 - 📚 I’m currently learning Swift (UIKit/SwiftUI)
 
