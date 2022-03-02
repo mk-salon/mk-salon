@@ -2,7 +2,7 @@
 - 💻 I’m interested in iOS App Development
 - 📚 I’m currently learning Swift (UIKit/SwiftUI)
 
-### You can cach me there -> https://malnov.bio.link
+### You can cach me there ->
 
 
 
